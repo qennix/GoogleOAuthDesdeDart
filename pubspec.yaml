@@ -1,0 +1,6 @@
+name: GoogleOAuthDesdeDart
+author: Enrique Ponce De Leon
+description: A sample web application to test google oauth 2.0 package
+dependencies:
+  browser: any
+  google_oauth2_client: '>=0.2.18'
